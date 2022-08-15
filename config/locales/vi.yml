@@ -1,0 +1,6 @@
+vi:
+  static_pages: 
+    home:
+      title: 'Chào mừng đến với Sample App'
+      description: 'Đây là trang chủ cho một ứng dụng đơn giản sử dụng <a href="http://www.railstutorial.org/">Ruby on Rails Tutorial </a>.'
+      sign_up: 'Đăng ký ngay!'
